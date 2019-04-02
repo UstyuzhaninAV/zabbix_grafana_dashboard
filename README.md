@@ -1,1 +1,1 @@
-# zabbix_graphana_dashboard
+# zabbix_grafana_dashboard
